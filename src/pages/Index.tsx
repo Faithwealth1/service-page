@@ -100,7 +100,7 @@ const Index = () => {
         <HeroSection />
 
         <ServiceSection
-          imageSrc="https://api.builder.io/api/v1/image/assets/1fe23c12aa114c02a439df9b05291582/6c6e6e018e1bb8859c23b53b86e71c715b401422?placeholderIfAbsent=true"
+          imageSrc="Cloud managed Service.png"
           imageAlt="Cloud Managed Services"
           title="Cloud Managed Services"
           description="We provide end-to-end cloud management solutions, ensuring optimal performance, security, and cost-efficiency. From infrastructure monitoring to disaster recovery, our team handles everything so you can focus on your core business activities."
@@ -109,7 +109,7 @@ const Index = () => {
         />
 
         <ServiceSection
-          imageSrc="https://api.builder.io/api/v1/image/assets/1fe23c12aa114c02a439df9b05291582/e098f21e849c9003b1ccf5de76d85ed2b4ddd9d6?placeholderIfAbsent=true"
+          imageSrc="Cloud-Native development.png"
           imageAlt="Cloud-Native Development"
           title="Cloud-Native Development"
           description="Leverage our expertise in building cloud-native applications that are scalable, resilient, and aligned with your business objectives. Our solutions are designed to harness the full potential of the cloud."
@@ -118,7 +118,7 @@ const Index = () => {
         />
 
         <ServiceSection
-          imageSrc="https://api.builder.io/api/v1/image/assets/1fe23c12aa114c02a439df9b05291582/a739b0d6e5aa4b1bb6613d502b76a9495d3170f6?placeholderIfAbsent=true"
+          imageSrc="cloud migration services.png"
           imageAlt="Cloud Migration Services"
           title="Cloud Migration Services"
           description="Transition your legacy systems to the cloud with minimal downtime. Our experts design and execute migration strategies that are cost-effective, secure, and aligned with your business goals"
@@ -127,7 +127,7 @@ const Index = () => {
         />
 
         <ServiceSection
-          imageSrc="https://api.builder.io/api/v1/image/assets/1fe23c12aa114c02a439df9b05291582/3b9518dbb737c90f17cd77c421f5821a96fe2eea?placeholderIfAbsent=true"
+          imageSrc="internet of things.png"
           imageAlt="Internet of Things (IoT) Solutions"
           title="Internet of Things (IoT) Solutions"
           description="From smart devices to intelligent networks, our IoT solutions help businesses unlock new opportunities by connecting physical and digital worlds. Transform your operations and gain real-time insights."
@@ -136,7 +136,7 @@ const Index = () => {
         />
 
         <ServiceSection
-          imageSrc="https://api.builder.io/api/v1/image/assets/1fe23c12aa114c02a439df9b05291582/f76fd5600b0ce7d6df90ffebe26d1f73602e47a0?placeholderIfAbsent=true"
+          imageSrc="devOps.png"
           imageAlt="DevOps Services and Solutions"
           title="DevOps Services and Solutions"
           description="Streamline your development and operations processes with our DevOps expertise. We enable faster delivery of high-quality applications through automation, collaboration, and best practices."
@@ -145,7 +145,7 @@ const Index = () => {
         />
 
         <ServiceSection
-          imageSrc="https://api.builder.io/api/v1/image/assets/1fe23c12aa114c02a439df9b05291582/53a107ad1b058cfe785cb281af7087c9e2225fcf?placeholderIfAbsent=true"
+          imageSrc="big-data solutions.png"
           imageAlt="Big Data Consulting Services"
           title="Big Data Consulting Services"
           description="Unlock the power of big data with our consulting services. We help you collect, process, and analyze massive datasets to uncover actionable insights and drive informed decision-making."
@@ -154,7 +154,8 @@ const Index = () => {
         />
 
         <section className="z-0 w-full bg-[#FBFBFB] pt-[60px] pb-[120px] px-20 max-md:max-w-full max-md:pb-[100px] max-md:px-5">
-          <div className="w-full max-md:max-w-full">
+          <div className="w-full max-md:max-w-full flex flex-col items-center">
+          
             <div className="flex w-full flex-col items-stretch text-center justify-center max-md:max-w-full">
               <h2 className="text-4xl font-bold leading-none bg-clip-text max-md:max-w-full">
                 Industries We Serve

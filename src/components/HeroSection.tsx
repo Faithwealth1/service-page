@@ -4,7 +4,7 @@ const HeroSection = () => {
   return (
     <section className="flex flex-col justify-center overflow-hidden relative z-0 min-h-[720px] w-full pt-[210px] pb-[190px] px-20 max-md:max-w-full max-md:px-5 max-md:py-[100px]">
       <img
-        src="https://api.builder.io/api/v1/image/assets/1fe23c12aa114c02a439df9b05291582/00adebbe2f5965cc996d7e6a392b8560d341b57a?placeholderIfAbsent=true"
+        src="footer bg.png"
         alt="Hero background"
         className="absolute h-full w-full object-cover inset-0"
       />

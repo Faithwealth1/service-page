@@ -6,35 +6,35 @@ const Footer = () => {
       <div className="z-0 flex w-full items-center gap-[40px_100px] justify-between flex-wrap max-md:max-w-full">
         <div className="self-stretch min-w-60 w-[323px] my-auto">
           <img
-            src="https://api.builder.io/api/v1/image/assets/1fe23c12aa114c02a439df9b05291582/6c9d743ef7fc2d7943667cfbe4427f3ad9188a14?placeholderIfAbsent=true"
+            src="Vontech-Logo 1.png"
             alt="Vontech Group Logo"
             className="aspect-[3.66] object-contain w-[165px] max-w-full"
           />
           <div className="flex w-full gap-5 mt-[17px]">
             <a href="#" className="bg-[rgba(59,89,152,1)] flex items-center justify-center w-[50px] h-[50px] rounded-[25px] hover:opacity-80 transition-opacity">
               <img
-                src="https://api.builder.io/api/v1/image/assets/1fe23c12aa114c02a439df9b05291582/5a87fa2f2837434c4d1ee079a577be4fd3c29f61?placeholderIfAbsent=true"
+                src="facebook.png"
                 alt="Facebook"
                 className="aspect-[1] object-contain w-[25px] self-stretch my-auto"
               />
             </a>
             <a href="#" className="justify-center items-center flex w-[50px] h-[50px] bg-black rounded-[25px] hover:opacity-80 transition-opacity">
               <img
-                src="https://api.builder.io/api/v1/image/assets/1fe23c12aa114c02a439df9b05291582/7f9db5b17d5a4f742b2a8ce8b71dceef1ab567a0?placeholderIfAbsent=true"
+                src="x.png"
                 alt="Twitter"
                 className="aspect-[1] object-contain w-[25px] self-stretch my-auto"
               />
             </a>
             <a href="#" className="bg-[rgba(0,119,181,1)] flex items-center justify-center w-[50px] h-[50px] rounded-[25px] hover:opacity-80 transition-opacity">
               <img
-                src="https://api.builder.io/api/v1/image/assets/1fe23c12aa114c02a439df9b05291582/a7c66be37212cf009cef6f5c9af7c20d1cfb8041?placeholderIfAbsent=true"
+                src="linkedin.png"
                 alt="LinkedIn"
                 className="aspect-[1] object-contain w-[25px] self-stretch my-auto"
               />
             </a>
             <a href="#" className="bg-neutral-800 flex items-center justify-center w-[50px] h-[50px] rounded-[25px] hover:opacity-80 transition-opacity">
               <img
-                src="https://api.builder.io/api/v1/image/assets/1fe23c12aa114c02a439df9b05291582/2ac804a38eddb1ba1d4d8f13f6336d4b65ce2eca?placeholderIfAbsent=true"
+                src="instagram.png"
                 alt="Instagram"
                 className="aspect-[1] object-contain w-[25px] self-stretch my-auto"
               />
@@ -75,8 +75,8 @@ const Footer = () => {
           </div>
         </nav>
       </div>
-      <div className="absolute z-0 flex w-[1440px] items-center text-sm text-white font-medium text-center leading-[1.4] justify-between p-5 border-[rgba(25,25,25,1)] border-t right-0 bottom-0 max-md:max-w-full">
-        <div className="text-white self-stretch flex-1 shrink basis-[0%] my-auto max-md:max-w-full">
+      <div className="absolute z-0 bottom-0 left-0 w-full flex items-center justify-center border-t border-[rgba(25,25,25,1)] p-5">
+        <div className="text-white text-sm font-medium text-center leading-[1.4">
           Copywrite © 2025 VonTech Group. All Right Reserved.
         </div>
       </div>
